@@ -10,3 +10,4 @@ int hangManGrid;
 void updatehangmanGrid(int wrongGuesses);
 void displayHangman(int wrongGuesses);
 
+
